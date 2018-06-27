@@ -7,7 +7,7 @@
     <ProjectGuid>{02A73928-14A3-490F-B9C2-BE660B32E07A}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>SH000001</RootNamespace>
-    <AssemblyName>SH000001</AssemblyName>
+    <AssemblyName>OrekiStockAssistant</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
